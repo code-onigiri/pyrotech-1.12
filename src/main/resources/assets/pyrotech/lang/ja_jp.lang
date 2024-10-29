@@ -243,217 +243,217 @@ tile.pyrotech.mechanical_bellows.name=メカニカルジャバラ
 tile.pyrotech.trip_hammer.name=トリップハンマー
 
 #------------------------------------------------------------------------------
-# Module: Tech - Refractory
+# モジュール: 工業 - 耐火物
 #------------------------------------------------------------------------------
 
-fluid.wood_tar=Wood Tar
-tile.fluid.wood_tar.name=Wood Tar
-fluid.coal_tar=Coal Tar
-tile.fluid.coal_tar.name=Coal Tar
+fluid.wood_tar=ウッドタール
+tile.fluid.wood_tar.name=ウッドタール
+fluid.coal_tar=コールタール
+tile.fluid.coal_tar.name=コールタール
 
-tile.pyrotech.tar_collector.stone.name=Stone Collector
-tile.pyrotech.tar_collector.brick.name=Refractory Collector
-tile.pyrotech.tar_drain.stone.name=Stone Drain
-tile.pyrotech.tar_drain.brick.name=Refractory Drain
-
-#------------------------------------------------------------------------------
-# Module: Tool
-#------------------------------------------------------------------------------
-
-item.pyrotech.crude.axe.name=Crude Axe
-item.pyrotech.crude.hoe.name=Crude Hoe
-item.pyrotech.crude.pickaxe.name=Crude Pickaxe
-item.pyrotech.crude.shovel.name=Crude Shovel
-item.pyrotech.crude.fishing.rod.name=Crude Fishing Rod
-
-item.pyrotech.bone.axe.name=Bone Axe
-item.pyrotech.bone.hoe.name=Bone Hoe
-item.pyrotech.bone.pickaxe.name=Bone Pickaxe
-item.pyrotech.bone.shovel.name=Bone Shovel
-item.pyrotech.bone.sword.name=Bone Sword
-
-item.pyrotech.bone.axe.durable.name=Durable Bone Axe
-item.pyrotech.bone.hoe.durable.name=Durable Bone Hoe
-item.pyrotech.bone.pickaxe.durable.name=Durable Bone Pickaxe
-item.pyrotech.bone.shovel.durable.name=Durable Bone Shovel
-
-item.pyrotech.flint.axe.name=Flint Axe
-item.pyrotech.flint.hoe.name=Flint Hoe
-item.pyrotech.flint.pickaxe.name=Flint Pickaxe
-item.pyrotech.flint.shovel.name=Flint Shovel
-item.pyrotech.flint.sword.name=Flint Sword
-
-item.pyrotech.flint.axe.durable.name=Durable Flint Axe
-item.pyrotech.flint.hoe.durable.name=Durable Flint Hoe
-item.pyrotech.flint.pickaxe.durable.name=Durable Flint Pickaxe
-item.pyrotech.flint.shovel.durable.name=Durable Flint Shovel
-
-item.pyrotech.obsidian.axe.name=Obsidian Axe
-item.pyrotech.obsidian.hoe.name=Obsidian Hoe
-item.pyrotech.obsidian.pickaxe.name=Obsidian Pickaxe
-item.pyrotech.obsidian.shovel.name=Obsidian Shovel
-item.pyrotech.obsidian.sword.name=Obsidian Sword
-
-item.pyrotech.redstone.axe.name=Redstone Axe
-item.pyrotech.redstone.hoe.name=Redstone Hoe
-item.pyrotech.redstone.pickaxe.name=Redstone Pickaxe
-item.pyrotech.redstone.shovel.name=Redstone Shovel
-item.pyrotech.redstone.sword.name=Redstone Sword
-
-item.pyrotech.quartz.axe.name=Quartz Axe
-item.pyrotech.quartz.hoe.name=Quartz Hoe
-item.pyrotech.quartz.pickaxe.name=Quartz Pickaxe
-item.pyrotech.quartz.shovel.name=Quartz Shovel
-item.pyrotech.quartz.sword.name=Quartz Sword
-
-item.pyrotech.unfired.clay.shears.name=Unfired Clay Shears
-item.pyrotech.clay.shears.name=Clay Shears
-item.pyrotech.stone.shears.name=Stone Shears
-item.pyrotech.bone.shears.name=Bone Shears
-item.pyrotech.flint.shears.name=Flint Shears
-item.pyrotech.gold.shears.name=Golden Shears
-item.pyrotech.diamond.shears.name=Diamond Shears
-item.pyrotech.obsidian.shears.name=Obsidian Shears
-
-item.pyrotech.bone.tool.repair.kit.name=Bone Tool Repair Kit
-item.pyrotech.flint.tool.repair.kit.name=Flint Tool Repair Kit
-
-item.pyrotech.crude.shield.name=Crude Shield
-item.pyrotech.durable.shield.name=Durable Shield
+tile.pyrotech.tar_collector.stone.name=ストーンコレクター
+tile.pyrotech.tar_collector.brick.name=耐火物コレクター
+tile.pyrotech.tar_drain.stone.name=ストーンドレイン
+tile.pyrotech.tar_drain.brick.name=耐火性ドレイン
 
 #------------------------------------------------------------------------------
-# Module: Core
+# モジュール: ツール
 #------------------------------------------------------------------------------
 
-fluid.liquid_clay=Liquid Clay
-tile.fluid.liquid_clay.name=Liquid Clay
-fluid.pyroberry_wine=Pyroberry Wine
-tile.fluid.pyroberry_wine.name=Pyroberry Wine
-fluid.gloamberry_wine=Gloamberry Wine
-tile.fluid.gloamberry_wine.name=Gloamberry Wine
-fluid.freckleberry_wine=Freckleberry Wine
-tile.fluid.freckleberry_wine.name=Freckleberry Wine
+item.pyrotech.crude.axe.name=粗野な斧
+item.pyrotech.crude.hoe.name=粗野なクワ
+item.pyrotech.crude.pickaxe.name=粗野なピッケル
+item.pyrotech.crude.shovel.name=粗雑なシャベル
+item.pyrotech.crude.fishing.rod.name=粗悪な釣り竿
 
-item.pyrotech.straw.name=Straw
-item.pyrotech.coal.coke.name=Coal Coke
-item.pyrotech.pit.ash.name=Ash
-item.pyrotech.flint.clay.ball.name=Flint Clay
-item.pyrotech.refractory.clay.ball.name=Refractory Clay
-item.pyrotech.refractory.clay.lump.name=Lump of Refractory Clay
-item.pyrotech.unfired.refractory.brick.name=Unfired Refractory Brick
-item.pyrotech.unfired.brick.name=Unfired Clay Brick
-item.pyrotech.refractory.brick.name=Refractory Brick
-item.pyrotech.pottery.fragments.name=Pottery Fragments
-item.pyrotech.pottery.shard.name=Pottery Shard
-item.pyrotech.refractory.door.name=Refractory Door
-item.pyrotech.stone.door.name=Stone Door
-item.pyrotech.quicklime.name=Quicklime
-item.pyrotech.slaked.lime.name=Slaked Lime
-item.pyrotech.flint.shard.name=Flint Shard
-item.pyrotech.bone.shard.name=Bone Shard
-item.pyrotech.plant.fibers.name=Plant Fibers
-item.pyrotech.plant.fibers.dried.name=Dried Plant Fibers
-item.pyrotech.twine.name=Twine
-item.pyrotech.charcoal.flakes.name=Charcoal Flakes
-item.pyrotech.brick.stone.name=Masonry Brick
-item.pyrotech.clay.lump.name=Lump of Clay
-item.pyrotech.iron.shard.name=Iron Shard
-item.pyrotech.diamond.shard.name=Diamond Shard
-item.pyrotech.board.name=Board
-item.pyrotech.coal.pieces.name=Coal Pieces
-item.pyrotech.mulch.name=Mulch
-item.pyrotech.board.tarred.name=Tarred Board
-item.pyrotech.pulp.name=Pulp
-item.pyrotech.twine.durable.name=Durable Twine
-item.pyrotech.stick.stone.name=Stone Rod
-item.pyrotech.burned.food.name=Burned Food
-item.pyrotech.dust.limestone.name=Crushed Limestone
-item.pyrotech.kindling.name=Kindling
-item.pyrotech.kindling.tarred.name=Tarred Kindling
-item.pyrotech.dust.flint.name=Crushed Flint
-item.pyrotech.glass.shard.name=Glass Shard
-item.pyrotech.obsidian.shard.name=Obsidian Shard
-item.pyrotech.gold.shard.name=Gold Shard
-item.pyrotech.dense.redstone.name=Dense Redstone
-item.pyrotech.dense.quartz.name=Dense Quartz
-item.pyrotech.leather.sheet.name=Leather Sheet
-item.pyrotech.leather.strap.name=Leather Strap
-item.pyrotech.leather.cord.name=Leather Cord
-item.pyrotech.leather.durable.name=Durable Leather
-item.pyrotech.leather.durable.sheet.name=Durable Leather Sheet
-item.pyrotech.leather.durable.strap.name=Durable Leather Strap
-item.pyrotech.leather.durable.cord.name=Durable Leather Cord
-item.pyrotech.leather.small.name=Small Leather
-item.pyrotech.fletching.name=Fletching
-item.pyrotech.stone.tool.shaft.name=Stone Tool Shaft
-item.pyrotech.bow.drill.durable.stick.name=Durable Spindle
-item.pyrotech.lard.name=Lard
-item.pyrotech.dough.name=Dough
-item.pyrotech.flour.name=Flour
-item.pyrotech.bread.dough.name=Bread Dough
-item.pyrotech.cookie.dough.name=Cookie Dough
-item.pyrotech.furnace.core.name=Furnace Core
-item.pyrotech.clay.blasting.name=Blasting Clay
+item.pyrotech.bone.axe.name=骨の斧
+item.pyrotech.bone.hoe.name=骨のクワ
+item.pyrotech.bone.pickaxe.name=骨のピッケル
+item.pyrotech.bone.shovel.name=骨のシャベル
+item.pyrotech.bone.sword.name=骨の剣
 
-item.pyrotech.apple.baked.name=Baked Apple
-item.pyrotech.carrot.roasted.name=Roasted Carrot
-item.pyrotech.egg.roasted.name=Roasted Egg
-item.pyrotech.mushroom.brown.roasted.name=Roasted Brown Mushroom
-item.pyrotech.mushroom.red.roasted.name=Roasted Red Mushroom
-item.pyrotech.beetroot.roasted.name=Roasted Beetroot
-item.pyrotech.strange.tuber.name=Strange Tuber
-item.pyrotech.pyroberries.name=Pyroberries
-item.pyrotech.pyroberry.seeds.name=Pyroberry Seeds
-item.pyrotech.pyroberry.wine.name=Pyroberry Wine
-item.pyrotech.pyroberry.cocktail.name=Pyroberry Cocktail
-item.pyrotech.gloamberry.seeds.name=Gloamberry Seeds
-item.pyrotech.gloamberries.name=Gloamberries
-item.pyrotech.gloamberry.wine.name=Gloamberry Wine
-item.pyrotech.tainted.meat.name=Tainted Meat
-item.pyrotech.freckleberry.seeds.name=Freckleberry Seeds
-item.pyrotech.freckleberries.name=Freckleberries
-item.pyrotech.freckleberry.wine.name=Freckleberry Wine
+item.pyrotech.bone.axe.durable.name=丈夫な骨の斧
+item.pyrotech.bone.hoe.durable.name=丈夫な骨のクワ
+item.pyrotech.bone.pickaxe.durable.name=丈夫な骨のピッケル
+item.pyrotech.bone.shovel.durable.name=丈夫な骨のシャベル
 
-item.pyrotech.crude.hammer.name=Crude Hammer
-item.pyrotech.stone.hammer.name=Stone Hammer
-item.pyrotech.flint.hammer.name=Flint Hammer
-item.pyrotech.bone.hammer.name=Bone Hammer
-item.pyrotech.flint.hammer.durable.name=Durable Flint Hammer
-item.pyrotech.bone.hammer.durable.name=Durable Bone Hammer
-item.pyrotech.iron.hammer.name=Iron Hammer
-item.pyrotech.gold.hammer.name=Golden Hammer
-item.pyrotech.diamond.hammer.name=Diamond Hammer
-item.pyrotech.obsidian.hammer.name=Obsidian Hammer
+item.pyrotech.flint.axe.name=火打石の斧
+item.pyrotech.flint.hoe.name=火打石のクワ
+item.pyrotech.flint.pickaxe.name=火打石のピッケル
+item.pyrotech.flint.shovel.name=火打石のシャベル
+item.pyrotech.flint.sword.name=火打石の剣
 
-tile.pyrotech.thatch.name=Straw Bale
-tile.pyrotech.coal_coke_block.name=Block of Coal Coke
-tile.pyrotech.log_pile.name=Log Pile
-tile.pyrotech.refractory_brick_block.name=Refractory Bricks
-tile.pyrotech.refractory_brick_wall.name=Refractory Brick Wall
-tile.pyrotech.refractory_brick_slab.name=Refractory Brick Slab
-tile.pyrotech.refractory_brick_stairs.name=Refractory Brick Stairs
-tile.pyrotech.limestone.name=Limestone
-tile.pyrotech.refractory_glass.name=Refractory Glass
-tile.pyrotech.slag_glass.name=Slag Glass
-tile.pyrotech.fossil_ore.name=Fossil Ore
-tile.pyrotech.dense_coal_ore.name=Dense Coal Ore
-tile.pyrotech.dense_nether_coal_ore.name=Dense Nether Coal
-tile.pyrotech.cobblestone.andesite.name=Cobbled Andesite
-tile.pyrotech.cobblestone.diorite.name=Cobbled Diorite
-tile.pyrotech.cobblestone.granite.name=Cobbled Granite
-tile.pyrotech.cobblestone.limestone.name=Cobbled Limestone
-tile.pyrotech.masonry_brick_block.name=Masonry Bricks
-tile.pyrotech.masonry_brick_slab.name=Masonry Brick Slab
-tile.pyrotech.masonry_brick_stairs.name=Masonry Brick Stairs
-tile.pyrotech.masonry_brick_wall.name=Masonry Brick Wall
-tile.pyrotech.farmland_mulched.name=Mulched Farmland
-tile.pyrotech.planks_tarred.name=Tarred Planks
-tile.pyrotech.pile_wood_chips.name=Wood Chips
-tile.pyrotech.pile_ash.name=Ash Pile
-tile.pyrotech.wool_tarred.name=Tarred Wool
-tile.pyrotech.charcoal_block.name=Block of Charcoal
-tile.pyrotech.wood_tar_block.name=Tar Bale
-tile.pyrotech.living_tar.name=Living Tar
+item.pyrotech.flint.axe.durable.name=丈夫な火打石の斧
+item.pyrotech.flint.hoe.durable.name=丈夫な火打石のクワ
+item.pyrotech.flint.pickaxe.durable.name=丈夫な火打石のピッケル
+item.pyrotech.flint.shovel.durable.name=丈夫な火打石のシャベル
+
+item.pyrotech.obsidian.axe.name=黒曜石の斧
+item.pyrotech.obsidian.hoe.name=黒曜石のクワ
+item.pyrotech.obsidian.pickaxe.name=黒曜石のピッケル
+item.pyrotech.obsidian.shovel.name=黒曜石のシャベル
+item.pyrotech.obsidian.sword.name=黒曜石の剣
+
+item.pyrotech.redstone.axe.name=レッドストーンの斧
+item.pyrotech.redstone.hoe.name=レッドストーンのクワ
+item.pyrotech.redstone.pickaxe.name=レッドストーンのピッケル
+item.pyrotech.redstone.shovel.name=レッドストーンのシャベル
+item.pyrotech.redstone.sword.name=レッドストーンの剣
+
+item.pyrotech.quartz.axe.name=クオーツの斧
+item.pyrotech.quartz.hoe.name=クオーツのクワ
+item.pyrotech.quartz.pickaxe.name=クオーツのピッケル
+item.pyrotech.quartz.shovel.name=クオーツのシャベル
+item.pyrotech.quartz.sword.name=クオーツの剣
+
+item.pyrotech.unfired.clay.shears.name=未焼成の粘土ハサミ
+item.pyrotech.clay.shears.name=粘土のハサミ
+item.pyrotech.stone.shears.name=石のハサミ
+item.pyrotech.bone.shears.name=骨のハサミ
+item.pyrotech.flint.shears.name=火打石のハサミ
+item.pyrotech.gold.shears.name=金のハサミ
+item.pyrotech.diamond.shears.name=ダイアモンドのハサミ
+item.pyrotech.obsidian.shears.name=黒曜石のハサミ
+
+item.pyrotech.bone.tool.repair.kit.name=骨工具修理キット
+item.pyrotech.flint.tool.repair.kit.name=火打ち石工具修理キット
+
+item.pyrotech.crude.shield.name=粗野な盾
+item.pyrotech.durable.shield.name=丈夫な盾
+
+#------------------------------------------------------------------------------
+# モジュール: コア
+#------------------------------------------------------------------------------
+
+fluid.liquid_clay=液体粘土
+tile.fluid.liquid_clay.name=液体粘土
+fluid.pyroberry_wine=パイロベリーワイン
+tile.fluid.pyroberry_wine.name=パイロベリーワイン
+fluid.gloamberry_wine=グロームベリーワイン
+tile.fluid.gloamberry_wine.name=グロームベリーワイン
+fluid.freckleberry_wine=フレックルベリーワイン
+tile.fluid.freckleberry_wine.name=フレックルベリーワイン
+
+item.pyrotech.straw.name=ストロー
+item.pyrotech.coal.coke.name=石炭コークス
+item.pyrotech.pit.ash.name=灰
+item.pyrotech.flint.clay.ball.name=火打ち石粘土
+item.pyrotech.refractory.clay.ball.name=耐火粘土
+item.pyrotech.refractory.clay.lump.name=耐火粘土の塊
+item.pyrotech.unfired.refractory.brick.name=未焼成の耐火レンガ
+item.pyrotech.unfired.brick.name=未焼成の粘土レンガ
+item.pyrotech.refractory.brick.name=耐火レンガ
+item.pyrotech.pottery.fragments.name=陶器の破片
+item.pyrotech.pottery.shard.name=陶器の破片
+item.pyrotech.refractory.door.name=耐火ドア
+item.pyrotech.stone.door.name=石のドア
+item.pyrotech.quicklime.name=生石灰
+item.pyrotech.slaked.lime.name=消石灰
+item.pyrotech.flint.shard.name=火打石の破片
+item.pyrotech.bone.shard.name=骨の破片
+item.pyrotech.plant.fibers.name=植物繊維
+item.pyrotech.plant.fibers.dried.name=丈夫な植物繊維
+item.pyrotech.twine.name=縒り糸
+item.pyrotech.charcoal.flakes.name=木炭フレーク
+item.pyrotech.brick.stone.name=石造レンガ
+item.pyrotech.clay.lump.name=粘土の塊
+item.pyrotech.iron.shard.name=鉄片
+item.pyrotech.diamond.shard.name=ダイヤモンドの破片
+item.pyrotech.board.name=ボード
+item.pyrotech.coal.pieces.name=石炭片
+item.pyrotech.mulch.name=マルチ
+item.pyrotech.board.tarred.name=タラードボード
+item.pyrotech.pulp.name=パルプ
+item.pyrotech.twine.durable.name=丈夫な縒り糸
+item.pyrotech.stick.stone.name=石の棒
+item.pyrotech.burned.food.name=焦げた食べ物
+item.pyrotech.dust.limestone.name=砕いた石灰岩
+item.pyrotech.kindling.name=薪
+item.pyrotech.kindling.tarred.name=タールのかかった薪
+item.pyrotech.dust.flint.name=砕いた火打石
+item.pyrotech.glass.shard.name=ガラスの欠片
+item.pyrotech.obsidian.shard.name=黒曜石の欠片
+item.pyrotech.gold.shard.name=金の欠片
+item.pyrotech.dense.redstone.name=デンスレッドストーン
+item.pyrotech.dense.quartz.name=デンスクォーツ
+item.pyrotech.leather.sheet.name=革シート
+item.pyrotech.leather.strap.name=革ひも
+item.pyrotech.leather.cord.name=革コード
+item.pyrotech.leather.durable.name=丈夫な革
+item.pyrotech.leather.durable.sheet.name=丈夫な革シート
+item.pyrotech.leather.durable.strap.name=丈夫な革ひも
+item.pyrotech.leather.durable.cord.name=丈夫な革コード
+item.pyrotech.leather.small.name=小さな革
+item.pyrotech.fletching.name=矢細工
+item.pyrotech.stone.tool.shaft.name=石器シャフト
+item.pyrotech.bow.drill.durable.stick.name=丈夫なスピンドル
+item.pyrotech.lard.name=ラード
+item.pyrotech.dough.name=生地
+item.pyrotech.flour.name=小麦粉
+item.pyrotech.bread.dough.name=パン生地
+item.pyrotech.cookie.dough.name=クッキー生地
+item.pyrotech.furnace.core.name=炉心
+item.pyrotech.clay.blasting.name=発破粘土
+
+item.pyrotech.apple.baked.name=焼きリンゴ
+item.pyrotech.carrot.roasted.name=ローストニンジン
+item.pyrotech.egg.roasted.name=ローストエッグ
+item.pyrotech.mushroom.brown.roasted.name=茶色のキノコのロースト
+item.pyrotech.mushroom.red.roasted.name=赤色のキノコのロースト
+item.pyrotech.beetroot.roasted.name=ローストビートルート
+item.pyrotech.strange.tuber.name=奇妙な塊茎
+item.pyrotech.pyroberries.name=パイロベリー
+item.pyrotech.pyroberry.seeds.name=パイロベリーの種
+item.pyrotech.pyroberry.wine.name=パイロベリーワイン
+item.pyrotech.pyroberry.cocktail.name=パイロベリーカクテル
+item.pyrotech.gloamberry.seeds.name=グロームベリーの種
+item.pyrotech.gloamberries.name=グロームベリー
+item.pyrotech.gloamberry.wine.name=グロームベリーワイン
+item.pyrotech.tainted.meat.name=汚染肉
+item.pyrotech.freckleberry.seeds.name=フレックルベリーの種
+item.pyrotech.freckleberries.name=フレックルベリー
+item.pyrotech.freckleberry.wine.name=フレックルベリーワイン
+
+item.pyrotech.crude.hammer.name=粗野なハンマー
+item.pyrotech.stone.hammer.name=石のハンマー
+item.pyrotech.flint.hammer.name=火打石のハンマー
+item.pyrotech.bone.hammer.name=石のハンマー
+item.pyrotech.flint.hammer.durable.name=丈夫な火打石のハンマー
+item.pyrotech.bone.hammer.durable.name=丈夫な骨のハンマー
+item.pyrotech.iron.hammer.name=鉄のハンマー
+item.pyrotech.gold.hammer.name=金のハンマー
+item.pyrotech.diamond.hammer.name=ダイアモンドのハンマー
+item.pyrotech.obsidian.hammer.name=黒曜石のハンマー
+
+tile.pyrotech.thatch.name=藁俵
+tile.pyrotech.coal_coke_block.name=石炭コークスのブロック
+tile.pyrotech.log_pile.name=丸太の山
+tile.pyrotech.refractory_brick_block.name=耐火レンガ
+tile.pyrotech.refractory_brick_wall.name=耐火レンガの塀
+tile.pyrotech.refractory_brick_slab.name=耐火レンガのハーフブロック
+tile.pyrotech.refractory_brick_stairs.name=耐火レンガの階段
+tile.pyrotech.limestone.name=石灰岩
+tile.pyrotech.refractory_glass.name=耐火ガラス
+tile.pyrotech.slag_glass.name=スラグガラス
+tile.pyrotech.fossil_ore.name=化石鉱石
+tile.pyrotech.dense_coal_ore.name=デンス石炭鉱石
+tile.pyrotech.dense_nether_coal_ore.name=デンスネザー石炭鉱石
+tile.pyrotech.cobblestone.andesite.name=玉石混じりの安山岩
+tile.pyrotech.cobblestone.diorite.name=玉石混じりの閃緑岩
+tile.pyrotech.cobblestone.granite.name=玉石混じりの花崗岩
+tile.pyrotech.cobblestone.limestone.name=玉石混じりの石灰岩
+tile.pyrotech.masonry_brick_block.name=石造レンガ
+tile.pyrotech.masonry_brick_slab.name=石造レンガのハーフブロック
+tile.pyrotech.masonry_brick_stairs.name=石造レンガの階段
+tile.pyrotech.masonry_brick_wall.name=石造レンガの塀
+tile.pyrotech.farmland_mulched.name=刈り込み農地
+tile.pyrotech.planks_tarred.name=タール付き板
+tile.pyrotech.pile_wood_chips.name=ウッドチップ
+tile.pyrotech.pile_ash.name=灰の山
+tile.pyrotech.wool_tarred.name=タールウール
+tile.pyrotech.charcoal_block.name=木炭の塊
+tile.pyrotech.wood_tar_block.name=タールベール
+tile.pyrotech.living_tar.name=リビングタール
 tile.pyrotech.dense_redstone_ore.name=Dense Redstone Ore
 tile.pyrotech.dense_quartz_ore.name=Dense Quartz Ore
 tile.pyrotech.straw_bed.name=Straw Bed
