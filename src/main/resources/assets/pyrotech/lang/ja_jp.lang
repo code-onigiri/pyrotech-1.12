@@ -1,0 +1,699 @@
+itemGroup.pyrotech=Pyrotech
+
+#------------------------------------------------------------------------------
+# バニラ
+#------------------------------------------------------------------------------
+
+item.arrow.name=鉄の矢
+
+#------------------------------------------------------------------------------
+# モジュール: 狩猟
+#------------------------------------------------------------------------------
+
+item.pyrotech.hide.pig.name=豚皮
+item.pyrotech.hide.sheep.sheared.name=羊皮
+item.pyrotech.hide.llama.name=ラマの皮
+item.pyrotech.hide.scraped.name=削り取った皮
+item.pyrotech.hide.small.scraped.name=小さな削り取った皮
+item.pyrotech.hide.washed.name=洗った皮
+item.pyrotech.hide.small.washed.name=小さな洗った皮
+item.pyrotech.hide.tanned.name=なめし皮
+item.pyrotech.hide.small.tanned.name=小さななめし皮
+
+item.pyrotech.pelt.ruined.name=荒れた毛皮
+item.pyrotech.pelt.cow.name=牛革
+item.pyrotech.pelt.mooshroom.name=ムーシュルームの毛皮
+item.pyrotech.pelt.polar.bear.name=ホッキョクグマの毛皮
+item.pyrotech.pelt.bat.name=コウモリの毛皮
+item.pyrotech.pelt.horse.name=馬革
+item.pyrotech.pelt.wolf.name=狼の毛皮
+item.pyrotech.pelt.sheep.yellow.name=黄色の羊の毛皮
+item.pyrotech.pelt.sheep.white.name=白色の羊の毛皮
+item.pyrotech.pelt.sheep.gray.light.name=薄灰色の羊の毛皮
+item.pyrotech.pelt.sheep.red.name=赤色の羊の毛皮
+item.pyrotech.pelt.sheep.purple.name=紫色の羊の毛皮
+item.pyrotech.pelt.sheep.pink.name=桃色の羊の毛皮
+item.pyrotech.pelt.sheep.orange.name=橙色の羊の毛皮
+item.pyrotech.pelt.sheep.magenta.name=赤紫色の羊の毛皮
+item.pyrotech.pelt.sheep.lime.name=黄緑色の羊の毛皮
+item.pyrotech.pelt.sheep.blue.light.name=空色の羊の毛皮
+item.pyrotech.pelt.sheep.green.name=緑色の羊の毛皮
+item.pyrotech.pelt.sheep.gray.name=灰色の羊の毛皮
+item.pyrotech.pelt.sheep.cyan.name=青緑色の羊の毛皮
+item.pyrotech.pelt.sheep.brown.name=茶色の羊の毛皮
+item.pyrotech.pelt.sheep.blue.name=青色の羊の毛皮
+item.pyrotech.pelt.sheep.black.name=黒色の羊の毛皮
+item.pyrotech.pelt.llama.white.name=白色のラマの皮
+item.pyrotech.pelt.llama.creamy.name=クリーム色のラマの皮
+item.pyrotech.pelt.llama.gray.name=灰色のラマの皮
+item.pyrotech.pelt.llama.brown.name=茶色のラマの皮
+
+item.pyrotech.bone.hunters.knife.name=骨のハンターナイフ
+item.pyrotech.flint.hunters.knife.name=火打石のハンターナイフ
+item.pyrotech.stone.hunters.knife.name=石のハンターナイフ
+item.pyrotech.iron.hunters.knife.name=鉄のハンターナイフ
+item.pyrotech.gold.hunters.knife.name=金のハンターナイフ
+item.pyrotech.diamond.hunters.knife.name=ダイアモンドのハンターナイフ
+item.pyrotech.obsidian.hunters.knife.name=黒曜石のハンターナイフ
+
+item.pyrotech.bone.butchers.knife.name=骨の肉切り包丁
+item.pyrotech.flint.butchers.knife.name=火打石の肉切り包丁
+item.pyrotech.stone.butchers.knife.name=石の肉切り包丁
+item.pyrotech.iron.butchers.knife.name=鉄の肉切り包丁
+item.pyrotech.gold.butchers.knife.name=金の肉切り包丁
+item.pyrotech.diamond.butchers.knife.name=ダイアモンドの肉切り包丁
+item.pyrotech.obsidian.butchers.knife.name=黒曜石の肉切り包丁
+
+item.pyrotech.leather.repair.kit.name=革補修キット
+item.pyrotech.leather.durable.repair.kit.name=耐久レザー補修キット
+item.pyrotech.leather.durable.upgrade.kit.name=耐久レザーアップグレードキット
+
+item.pyrotech.flint.arrow.name=火打石の矢
+item.pyrotech.bone.arrow.name=骨の矢
+
+item.pyrotech.crude.spear.name=粗悪な槍
+item.pyrotech.flint.spear.name=火打石の槍
+item.pyrotech.bone.spear.name=骨の槍
+
+tile.pyrotech.carcass.name=死骸
+tile.pyrotech.butchers_block.name=肉屋のブロック
+
+entity.pyrotech.mud.name=泥のアニメーション
+
+fluid.tannin=タンニン
+tile.fluid.tannin.name=タンニン
+
+gui.pyrotech.hide.scraped.washing=削った皮革は、%sの間水につけて洗うことができる。
+
+#------------------------------------------------------------------------------
+# モジュール: バケツ
+#------------------------------------------------------------------------------
+
+item.pyrotech.bucket.clay.unfired.name=未焼成の粘土バケツ
+item.pyrotech.bucket.clay.name=%s 粘土バケツ
+item.pyrotech.bucket.clay.empty.name=粘土バケツ
+item.pyrotech.bucket.clay.milk.name=ミルク粘土バケツ
+
+item.pyrotech.bucket.stone.name=%s 石バケツ
+item.pyrotech.bucket.stone.empty.name=石バケツ
+item.pyrotech.bucket.stone.milk.name=ミルク石バケツ
+
+item.pyrotech.bucket.wood.name=%s 木バケツ
+item.pyrotech.bucket.wood.empty.name=木バケツ
+item.pyrotech.bucket.wood.milk.name=ミルク木バケツ
+
+item.pyrotech.bucket.refractory.unfired.name=未焼成の耐火バケット
+item.pyrotech.bucket.refractory.name=%s 耐火バケット
+item.pyrotech.bucket.refractory.empty.name=耐火バケット
+item.pyrotech.bucket.refractory.milk.name=ミルク耐火バケット
+
+#------------------------------------------------------------------------------
+# モジュール: 点火
+#------------------------------------------------------------------------------
+
+item.pyrotech.bow.drill.name=弓錐
+item.pyrotech.bow.drill.durable.name=耐久性に優れた弓錐
+item.pyrotech.flint.and.tinder.name=火打ち石と火口
+item.pyrotech.matchstick.name=マッチ棒
+
+tile.pyrotech.igniter.stone.name=石の点火装置
+tile.pyrotech.igniter.brick.name=耐火点火装置
+tile.pyrotech.torch_fiber.name=繊維松明
+tile.pyrotech.torch_stone.name=石松明
+tile.pyrotech.lamp_oil.name=オイルランプ
+
+fluid.lamp_oil=ランプオイル
+tile.fluid.lamp_oil.name=ランプオイル
+
+#------------------------------------------------------------------------------
+# モジュール: ストレージ
+#------------------------------------------------------------------------------
+
+tile.pyrotech.shelf.name=棚
+tile.pyrotech.shelf_stone.name=丈夫な棚
+tile.pyrotech.stash.name=貯蔵庫
+tile.pyrotech.stash_stone.name=丈夫な貯蔵庫
+tile.pyrotech.crate.name=木箱
+tile.pyrotech.crate_stone.name=丈夫な木箱
+tile.pyrotech.wood_rack.name=木製ラック
+tile.pyrotech.stone_tank.name=石タンク
+tile.pyrotech.brick_tank.name=耐火タンク
+tile.pyrotech.bag_simple.name=石袋
+tile.pyrotech.bag_durable.name=丈夫な石袋
+tile.pyrotech.faucet_stone.name=石製蛇口
+tile.pyrotech.faucet_brick.name=耐火蛇口
+
+#------------------------------------------------------------------------------
+# モジュール: 工業 - 基本
+#------------------------------------------------------------------------------
+
+item.pyrotech.tinder.name=火口
+item.pyrotech.marshmallow.name=マシュマロ
+item.pyrotech.marshmallow.roasted.name=焼きマシュマロ
+item.pyrotech.marshmallow.burned.name=焦げたマシュマロ
+item.pyrotech.marshmallow.stick.empty.name=マシュマロスティック
+item.pyrotech.marshmallow.on.stick.name=棒付きマシュマロ
+item.pyrotech.marshmallow.on.stick.roasted.name=焼き棒付きマシュマロ
+item.pyrotech.marshmallow.on.stick.burned.name=焦げた棒付きマシュマロ
+item.pyrotech.barrel.lid.name=樽の蓋
+
+tile.pyrotech.kiln_pit.name=穴窯
+tile.pyrotech.campfire.name=焚き火
+tile.pyrotech.drying_rack.crude.name=粗乾燥ラック
+tile.pyrotech.drying_rack.normal.name=乾燥ラック
+tile.pyrotech.chopping_block.name=まな板
+tile.pyrotech.anvil_granite.name=花崗岩の金床
+tile.pyrotech.anvil_iron_plated.name=鉄の金床
+tile.pyrotech.anvil_obsidian.name=黒曜石の金床
+tile.pyrotech.worktable.name=作業台
+tile.pyrotech.worktable_stone.name=石の作業台
+tile.pyrotech.compacting_bin.name=圧縮ビン
+tile.pyrotech.soaking_pot.name=浸漬ポット
+tile.pyrotech.compost_bin.name=堆肥入れ
+tile.pyrotech.barrel.name=樽
+tile.pyrotech.barrel_sealed.name=密閉樽
+tile.pyrotech.tanning_rack.name=タンニングラック
+
+gui.pyrotech.marshmallow.burned.broadcast.message=%sはマシュマロを燃やした！
+gui.pyrotech.marshmallow.burned.eat.broadcast.message=%sは焦げたマシュマロを食べました、気持ち悪い！
+
+pyrotech.effect.comfort=快適
+pyrotech.effect.well.fed=十分な食事
+pyrotech.effect.resting=休憩
+pyrotech.effect.well.rested=十分な休息
+pyrotech.effect.focused=集中
+
+#------------------------------------------------------------------------------
+# モジュール: 工業 - 醸造
+#------------------------------------------------------------------------------
+
+item.pyrotech.slag.name=スラグ
+item.pyrotech.slag.unique.name=%s スラグ
+item.pyrotech.tongs.flint.name=火打石のトング
+item.pyrotech.tongs.bone.name=骨のトング
+item.pyrotech.tongs.stone.name=石のトング
+item.pyrotech.tongs.iron.name=鉄のトング
+item.pyrotech.tongs.gold.name=金のトング
+item.pyrotech.tongs.diamond.name=ダイアモンドのトング
+item.pyrotech.tongs.obsidian.name=黒曜石のトング
+
+tile.pyrotech.bloom.name=ブルーム
+tile.pyrotech.bloom.unique.name=%s ブルーム
+tile.pyrotech.bloomery.name=ブルームリー
+tile.pyrotech.wither_forge.name=ウィザーフォージ
+tile.pyrotech.pile_slag.name=スラグヒープ
+tile.pyrotech.pile_slag.unique.name=%s スラグヒープ
+
+#------------------------------------------------------------------------------
+# モジュール: 工業 - 機械
+#------------------------------------------------------------------------------
+
+item.pyrotech.sawmill.blade.stone.name=石の製材用ブレード
+item.pyrotech.sawmill.blade.flint.name=火打石の製材用ブレード
+item.pyrotech.sawmill.blade.bone.name=骨の製材用ブレード
+item.pyrotech.sawmill.blade.iron.name=鉄の製材用ブレード
+item.pyrotech.sawmill.blade.gold.name=金の製材用ブレード
+item.pyrotech.sawmill.blade.diamond.name=ダイアモンドの製材用ブレード
+item.pyrotech.sawmill.blade.obsidian.name=黒曜石の製材用ブレード
+
+item.pyrotech.cog.wood.name=木の歯車
+item.pyrotech.cog.stone.name=石の歯車
+item.pyrotech.cog.flint.name=火打石の歯車
+item.pyrotech.cog.bone.name=骨の歯車
+item.pyrotech.cog.iron.name=鉄の歯車
+item.pyrotech.cog.gold.name=金の歯車
+item.pyrotech.cog.diamond.name=ダイアモンドの歯車
+item.pyrotech.cog.obsidian.name=黒曜石の歯車
+
+tile.pyrotech.stone_kiln.name=石窯
+tile.pyrotech.stone_oven.name=石窯
+tile.pyrotech.stone_sawmill.name=石製製材機
+tile.pyrotech.stone_crucible.name=石るつぼ
+
+tile.pyrotech.brick_kiln.name=耐火性石窯
+tile.pyrotech.brick_oven.name=耐火性石窯
+tile.pyrotech.brick_sawmill.name=耐火製製材機
+tile.pyrotech.brick_crucible.name=耐火性るつぼ
+
+tile.pyrotech.mechanical_hopper.name=メカニカルホッパー
+tile.pyrotech.mechanical_compacting_bin.name=機械式圧縮機
+tile.pyrotech.mechanical_mulch_spreader.name=機械式粉砕機
+tile.pyrotech.bellows.name=ジャバラ
+tile.pyrotech.mechanical_bellows.name=メカニカルジャバラ
+tile.pyrotech.trip_hammer.name=トリップハンマー
+
+#------------------------------------------------------------------------------
+# Module: Tech - Refractory
+#------------------------------------------------------------------------------
+
+fluid.wood_tar=Wood Tar
+tile.fluid.wood_tar.name=Wood Tar
+fluid.coal_tar=Coal Tar
+tile.fluid.coal_tar.name=Coal Tar
+
+tile.pyrotech.tar_collector.stone.name=Stone Collector
+tile.pyrotech.tar_collector.brick.name=Refractory Collector
+tile.pyrotech.tar_drain.stone.name=Stone Drain
+tile.pyrotech.tar_drain.brick.name=Refractory Drain
+
+#------------------------------------------------------------------------------
+# Module: Tool
+#------------------------------------------------------------------------------
+
+item.pyrotech.crude.axe.name=Crude Axe
+item.pyrotech.crude.hoe.name=Crude Hoe
+item.pyrotech.crude.pickaxe.name=Crude Pickaxe
+item.pyrotech.crude.shovel.name=Crude Shovel
+item.pyrotech.crude.fishing.rod.name=Crude Fishing Rod
+
+item.pyrotech.bone.axe.name=Bone Axe
+item.pyrotech.bone.hoe.name=Bone Hoe
+item.pyrotech.bone.pickaxe.name=Bone Pickaxe
+item.pyrotech.bone.shovel.name=Bone Shovel
+item.pyrotech.bone.sword.name=Bone Sword
+
+item.pyrotech.bone.axe.durable.name=Durable Bone Axe
+item.pyrotech.bone.hoe.durable.name=Durable Bone Hoe
+item.pyrotech.bone.pickaxe.durable.name=Durable Bone Pickaxe
+item.pyrotech.bone.shovel.durable.name=Durable Bone Shovel
+
+item.pyrotech.flint.axe.name=Flint Axe
+item.pyrotech.flint.hoe.name=Flint Hoe
+item.pyrotech.flint.pickaxe.name=Flint Pickaxe
+item.pyrotech.flint.shovel.name=Flint Shovel
+item.pyrotech.flint.sword.name=Flint Sword
+
+item.pyrotech.flint.axe.durable.name=Durable Flint Axe
+item.pyrotech.flint.hoe.durable.name=Durable Flint Hoe
+item.pyrotech.flint.pickaxe.durable.name=Durable Flint Pickaxe
+item.pyrotech.flint.shovel.durable.name=Durable Flint Shovel
+
+item.pyrotech.obsidian.axe.name=Obsidian Axe
+item.pyrotech.obsidian.hoe.name=Obsidian Hoe
+item.pyrotech.obsidian.pickaxe.name=Obsidian Pickaxe
+item.pyrotech.obsidian.shovel.name=Obsidian Shovel
+item.pyrotech.obsidian.sword.name=Obsidian Sword
+
+item.pyrotech.redstone.axe.name=Redstone Axe
+item.pyrotech.redstone.hoe.name=Redstone Hoe
+item.pyrotech.redstone.pickaxe.name=Redstone Pickaxe
+item.pyrotech.redstone.shovel.name=Redstone Shovel
+item.pyrotech.redstone.sword.name=Redstone Sword
+
+item.pyrotech.quartz.axe.name=Quartz Axe
+item.pyrotech.quartz.hoe.name=Quartz Hoe
+item.pyrotech.quartz.pickaxe.name=Quartz Pickaxe
+item.pyrotech.quartz.shovel.name=Quartz Shovel
+item.pyrotech.quartz.sword.name=Quartz Sword
+
+item.pyrotech.unfired.clay.shears.name=Unfired Clay Shears
+item.pyrotech.clay.shears.name=Clay Shears
+item.pyrotech.stone.shears.name=Stone Shears
+item.pyrotech.bone.shears.name=Bone Shears
+item.pyrotech.flint.shears.name=Flint Shears
+item.pyrotech.gold.shears.name=Golden Shears
+item.pyrotech.diamond.shears.name=Diamond Shears
+item.pyrotech.obsidian.shears.name=Obsidian Shears
+
+item.pyrotech.bone.tool.repair.kit.name=Bone Tool Repair Kit
+item.pyrotech.flint.tool.repair.kit.name=Flint Tool Repair Kit
+
+item.pyrotech.crude.shield.name=Crude Shield
+item.pyrotech.durable.shield.name=Durable Shield
+
+#------------------------------------------------------------------------------
+# Module: Core
+#------------------------------------------------------------------------------
+
+fluid.liquid_clay=Liquid Clay
+tile.fluid.liquid_clay.name=Liquid Clay
+fluid.pyroberry_wine=Pyroberry Wine
+tile.fluid.pyroberry_wine.name=Pyroberry Wine
+fluid.gloamberry_wine=Gloamberry Wine
+tile.fluid.gloamberry_wine.name=Gloamberry Wine
+fluid.freckleberry_wine=Freckleberry Wine
+tile.fluid.freckleberry_wine.name=Freckleberry Wine
+
+item.pyrotech.straw.name=Straw
+item.pyrotech.coal.coke.name=Coal Coke
+item.pyrotech.pit.ash.name=Ash
+item.pyrotech.flint.clay.ball.name=Flint Clay
+item.pyrotech.refractory.clay.ball.name=Refractory Clay
+item.pyrotech.refractory.clay.lump.name=Lump of Refractory Clay
+item.pyrotech.unfired.refractory.brick.name=Unfired Refractory Brick
+item.pyrotech.unfired.brick.name=Unfired Clay Brick
+item.pyrotech.refractory.brick.name=Refractory Brick
+item.pyrotech.pottery.fragments.name=Pottery Fragments
+item.pyrotech.pottery.shard.name=Pottery Shard
+item.pyrotech.refractory.door.name=Refractory Door
+item.pyrotech.stone.door.name=Stone Door
+item.pyrotech.quicklime.name=Quicklime
+item.pyrotech.slaked.lime.name=Slaked Lime
+item.pyrotech.flint.shard.name=Flint Shard
+item.pyrotech.bone.shard.name=Bone Shard
+item.pyrotech.plant.fibers.name=Plant Fibers
+item.pyrotech.plant.fibers.dried.name=Dried Plant Fibers
+item.pyrotech.twine.name=Twine
+item.pyrotech.charcoal.flakes.name=Charcoal Flakes
+item.pyrotech.brick.stone.name=Masonry Brick
+item.pyrotech.clay.lump.name=Lump of Clay
+item.pyrotech.iron.shard.name=Iron Shard
+item.pyrotech.diamond.shard.name=Diamond Shard
+item.pyrotech.board.name=Board
+item.pyrotech.coal.pieces.name=Coal Pieces
+item.pyrotech.mulch.name=Mulch
+item.pyrotech.board.tarred.name=Tarred Board
+item.pyrotech.pulp.name=Pulp
+item.pyrotech.twine.durable.name=Durable Twine
+item.pyrotech.stick.stone.name=Stone Rod
+item.pyrotech.burned.food.name=Burned Food
+item.pyrotech.dust.limestone.name=Crushed Limestone
+item.pyrotech.kindling.name=Kindling
+item.pyrotech.kindling.tarred.name=Tarred Kindling
+item.pyrotech.dust.flint.name=Crushed Flint
+item.pyrotech.glass.shard.name=Glass Shard
+item.pyrotech.obsidian.shard.name=Obsidian Shard
+item.pyrotech.gold.shard.name=Gold Shard
+item.pyrotech.dense.redstone.name=Dense Redstone
+item.pyrotech.dense.quartz.name=Dense Quartz
+item.pyrotech.leather.sheet.name=Leather Sheet
+item.pyrotech.leather.strap.name=Leather Strap
+item.pyrotech.leather.cord.name=Leather Cord
+item.pyrotech.leather.durable.name=Durable Leather
+item.pyrotech.leather.durable.sheet.name=Durable Leather Sheet
+item.pyrotech.leather.durable.strap.name=Durable Leather Strap
+item.pyrotech.leather.durable.cord.name=Durable Leather Cord
+item.pyrotech.leather.small.name=Small Leather
+item.pyrotech.fletching.name=Fletching
+item.pyrotech.stone.tool.shaft.name=Stone Tool Shaft
+item.pyrotech.bow.drill.durable.stick.name=Durable Spindle
+item.pyrotech.lard.name=Lard
+item.pyrotech.dough.name=Dough
+item.pyrotech.flour.name=Flour
+item.pyrotech.bread.dough.name=Bread Dough
+item.pyrotech.cookie.dough.name=Cookie Dough
+item.pyrotech.furnace.core.name=Furnace Core
+item.pyrotech.clay.blasting.name=Blasting Clay
+
+item.pyrotech.apple.baked.name=Baked Apple
+item.pyrotech.carrot.roasted.name=Roasted Carrot
+item.pyrotech.egg.roasted.name=Roasted Egg
+item.pyrotech.mushroom.brown.roasted.name=Roasted Brown Mushroom
+item.pyrotech.mushroom.red.roasted.name=Roasted Red Mushroom
+item.pyrotech.beetroot.roasted.name=Roasted Beetroot
+item.pyrotech.strange.tuber.name=Strange Tuber
+item.pyrotech.pyroberries.name=Pyroberries
+item.pyrotech.pyroberry.seeds.name=Pyroberry Seeds
+item.pyrotech.pyroberry.wine.name=Pyroberry Wine
+item.pyrotech.pyroberry.cocktail.name=Pyroberry Cocktail
+item.pyrotech.gloamberry.seeds.name=Gloamberry Seeds
+item.pyrotech.gloamberries.name=Gloamberries
+item.pyrotech.gloamberry.wine.name=Gloamberry Wine
+item.pyrotech.tainted.meat.name=Tainted Meat
+item.pyrotech.freckleberry.seeds.name=Freckleberry Seeds
+item.pyrotech.freckleberries.name=Freckleberries
+item.pyrotech.freckleberry.wine.name=Freckleberry Wine
+
+item.pyrotech.crude.hammer.name=Crude Hammer
+item.pyrotech.stone.hammer.name=Stone Hammer
+item.pyrotech.flint.hammer.name=Flint Hammer
+item.pyrotech.bone.hammer.name=Bone Hammer
+item.pyrotech.flint.hammer.durable.name=Durable Flint Hammer
+item.pyrotech.bone.hammer.durable.name=Durable Bone Hammer
+item.pyrotech.iron.hammer.name=Iron Hammer
+item.pyrotech.gold.hammer.name=Golden Hammer
+item.pyrotech.diamond.hammer.name=Diamond Hammer
+item.pyrotech.obsidian.hammer.name=Obsidian Hammer
+
+tile.pyrotech.thatch.name=Straw Bale
+tile.pyrotech.coal_coke_block.name=Block of Coal Coke
+tile.pyrotech.log_pile.name=Log Pile
+tile.pyrotech.refractory_brick_block.name=Refractory Bricks
+tile.pyrotech.refractory_brick_wall.name=Refractory Brick Wall
+tile.pyrotech.refractory_brick_slab.name=Refractory Brick Slab
+tile.pyrotech.refractory_brick_stairs.name=Refractory Brick Stairs
+tile.pyrotech.limestone.name=Limestone
+tile.pyrotech.refractory_glass.name=Refractory Glass
+tile.pyrotech.slag_glass.name=Slag Glass
+tile.pyrotech.fossil_ore.name=Fossil Ore
+tile.pyrotech.dense_coal_ore.name=Dense Coal Ore
+tile.pyrotech.dense_nether_coal_ore.name=Dense Nether Coal
+tile.pyrotech.cobblestone.andesite.name=Cobbled Andesite
+tile.pyrotech.cobblestone.diorite.name=Cobbled Diorite
+tile.pyrotech.cobblestone.granite.name=Cobbled Granite
+tile.pyrotech.cobblestone.limestone.name=Cobbled Limestone
+tile.pyrotech.masonry_brick_block.name=Masonry Bricks
+tile.pyrotech.masonry_brick_slab.name=Masonry Brick Slab
+tile.pyrotech.masonry_brick_stairs.name=Masonry Brick Stairs
+tile.pyrotech.masonry_brick_wall.name=Masonry Brick Wall
+tile.pyrotech.farmland_mulched.name=Mulched Farmland
+tile.pyrotech.planks_tarred.name=Tarred Planks
+tile.pyrotech.pile_wood_chips.name=Wood Chips
+tile.pyrotech.pile_ash.name=Ash Pile
+tile.pyrotech.wool_tarred.name=Tarred Wool
+tile.pyrotech.charcoal_block.name=Block of Charcoal
+tile.pyrotech.wood_tar_block.name=Tar Bale
+tile.pyrotech.living_tar.name=Living Tar
+tile.pyrotech.dense_redstone_ore.name=Dense Redstone Ore
+tile.pyrotech.dense_quartz_ore.name=Dense Quartz Ore
+tile.pyrotech.straw_bed.name=Straw Bed
+tile.pyrotech.pyroberry_bush.name=Pyroberry Bush
+tile.pyrotech.gloamberry_bush.name=Gloamberry Bush
+tile.pyrotech.freckleberry_plant.name=Freckleberry Plant
+tile.pyrotech.cob_wet.name=Wet Cob
+tile.pyrotech.cob_dry.name=Cob
+tile.pyrotech.mud.name=Mud
+tile.pyrotech.mud_layer.name=Mud
+tile.pyrotech.crafting_table_template.name=Crafting Table Template
+
+tile.pyrotech.rock_stone.name=Stone Rock
+tile.pyrotech.rock_andesite.name=Andesite Rock
+tile.pyrotech.rock_diorite.name=Diorite Rock
+tile.pyrotech.rock_granite.name=Granite Rock
+tile.pyrotech.rock_dirt.name=Dirt Clump
+tile.pyrotech.rock_sand.name=Sand Pile
+tile.pyrotech.rock_sandstone.name=Sandstone Rock
+tile.pyrotech.rock_sandstone_red.name=Red Sandstone Rock
+tile.pyrotech.rock_grass.name=Grass Clump
+tile.pyrotech.rock_wood_chips.name=Pile of Wood Chips
+tile.pyrotech.rock_limestone.name=Limestone Rock
+tile.pyrotech.rock_sand_red.name=Red Sand Pile
+tile.pyrotech.rock_netherrack.name=Netherrack Gib
+tile.pyrotech.rock_mud.name=Mud Clump
+
+#------------------------------------------------------------------------------
+# Tooltips
+#------------------------------------------------------------------------------
+
+gui.pyrotech.tooltip.machine.input.capacity.item=Input Capacity: %s%d
+gui.pyrotech.tooltip.machine.output.capacity.fluid=Output Capacity: %s%d mB
+gui.pyrotech.tooltip.machine.fuel.capacity.item=Fuel Capacity: %s%d
+gui.pyrotech.tooltip.machine.fuel.modifier=Fuel Modifier: %s%d%%
+gui.pyrotech.tooltip.machine.fuel.keep.heat=Self-extinguishes on recipe completion.
+
+gui.pyrotech.tooltip.extended.shift=Hold %s<SHIFT>%s for info.
+gui.pyrotech.tooltip.uses=Uses: %d / %d
+gui.pyrotech.tooltip.uses.full=Uses: %d
+gui.pyrotech.tooltip.durability=Durability: %d / %d
+gui.pyrotech.tooltip.durability.full=Durability: %d
+gui.pyrotech.tooltip.durability.indestructible=Indestructible
+gui.pyrotech.tooltip.hot.fluids.true=Can hold hot fluids.
+gui.pyrotech.tooltip.hot.fluids.false=Breaks with hot fluids.
+gui.pyrotech.tooltip.burn.time=Burn Time: %s
+gui.pyrotech.tooltip.fluid.capacity=Capacity: %d mB
+gui.pyrotech.tooltip.fluid=%s: %d / %d
+gui.pyrotech.tooltip.fluid.transfer.rate=Rate: %d mB/t
+gui.pyrotech.tooltip.fluid.transfer.limit=Shutoff: %d mB
+gui.pyrotech.tooltip.item.capacity.empty=Capacity: %d items
+gui.pyrotech.tooltip.item.capacity=Capacity: %d / %d items
+gui.pyrotech.tooltip.drain=Drains collectors in a %dx%d range in front of the block.
+gui.pyrotech.tooltip.refractory.valid=Valid for refractory structure.
+gui.pyrotech.tooltip.cog.hopper=%s: %sx%d
+gui.pyrotech.tooltip.cog.compactor=%s: %s%d%%
+gui.pyrotech.tooltip.cog.spreader=%s: %sx%d in %dx%d
+gui.pyrotech.tooltip.contents.retain.true=Keeps contents when broken.
+gui.pyrotech.tooltip.contents.retain.false=Destroys contents when broken.
+gui.pyrotech.tooltip.burn.time.efficiency=Efficiency:
+gui.pyrotech.tooltip.burn.time.modifier=%s: %s%d%%
+gui.pyrotech.tooltip.torch.burns.true=Burns up over time.
+gui.pyrotech.tooltip.torch.burns.false=Lasts forever.
+gui.pyrotech.tooltip.rain.extinguishes.true=Extinguished by rain.
+gui.pyrotech.tooltip.rain.extinguishes.false=Stays lit in the rain.
+gui.pyrotech.tooltip.potency=Potency: %d%%
+gui.pyrotech.tooltip.redstone.activation.chance=Has a %s%d%%%s chance to activate when damaged.
+gui.pyrotech.tooltip.redstone.active.durability=Has a %s%d%%%s chance to ignore damage while active.
+gui.pyrotech.tooltip.redstone.active.efficiency=Breaks blocks %s%d%%%s faster while active.
+gui.pyrotech.tooltip.redstone.active.damage=Deals %s%d%%%s damage while active.
+gui.pyrotech.tooltip.redstone.active.hoe=Tills a %s3x3%s area while active.
+gui.pyrotech.tooltip.compost.value=Compost Value: %d
+
+gui.pyrotech.tooltip.quartz.active.efficiency=Breaks blocks %s%d%%%s faster in %sThe Nether%s.
+gui.pyrotech.tooltip.quartz.active.damage=Deals %s%d%%%s damage in %sThe Nether%s.
+gui.pyrotech.tooltip.quartz.active.hoe=Tills a %s3x3%s area in %sThe Nether%s.
+
+#------------------------------------------------------------------------------
+# Waila
+#------------------------------------------------------------------------------
+
+gui.pyrotech.waila.quantity=%s: %d
+gui.pyrotech.waila.capacity=Capacity: %d of %d
+gui.pyrotech.waila.recipe=Recipe: %s
+gui.pyrotech.waila.recipe.synchronous=Recipe: %s (%s)
+gui.pyrotech.waila.cog=Cog: %s
+gui.pyrotech.waila.tank.fluid=%s: %d of %d mB
+gui.pyrotech.waila.tank.empty=Empty: %d of %d mB
+gui.pyrotech.waila.fuel=Fuel: %s%s
+gui.pyrotech.waila.campfire.fuel=Logs: %d of %d
+gui.pyrotech.waila.ash=Ash: %d of %d
+gui.pyrotech.waila.burn.time=Burn Time: %s
+gui.pyrotech.waila.sawmill.blade=Blade: %s
+gui.pyrotech.waila.speed=Speed: %d%%
+gui.pyrotech.waila.bloom.hammered=Hammered: %d%%
+gui.pyrotech.waila.bloom.integrity=Integrity: %d%%
+gui.pyrotech.waila.bloom.hammer.power=Hammer Power: %d%%
+gui.pyrotech.waila.bloomery.fuel=Fuel: %d of %d
+gui.pyrotech.waila.bloomery.airflow=Airflow: %d%%
+gui.pyrotech.waila.anvil.recipe.type=Type: %s
+gui.pyrotech.waila.anvil.recipe.type.hammer=Hammer
+gui.pyrotech.waila.anvil.recipe.type.pickaxe=Pickaxe
+gui.pyrotech.waila.worktable.condition=Condition: %s%s
+gui.pyrotech.waila.worktable.condition.good=Good
+gui.pyrotech.waila.worktable.condition.fair=Fair
+gui.pyrotech.waila.worktable.condition.used=Used
+gui.pyrotech.waila.worktable.condition.fractured=Fractured
+gui.pyrotech.waila.moisture.level=Moisture: %d%%
+gui.pyrotech.waila.campfire.required=Campfire required
+
+#------------------------------------------------------------------------------
+# JEI
+#------------------------------------------------------------------------------
+
+gui.pyrotech.jei.failure=Failure: %d%%
+
+gui.pyrotech.jei.category.kiln.brick=Refractory Kiln
+gui.pyrotech.jei.category.crucible.brick=Refractory Crucible
+gui.pyrotech.jei.category.sawmill.brick=Refractory Sawmill
+gui.pyrotech.jei.category.oven.brick=Refractory Oven
+
+gui.pyrotech.jei.category.kiln.stone=Stone Kiln
+gui.pyrotech.jei.category.crucible.stone=Stone Crucible
+gui.pyrotech.jei.category.sawmill.stone=Stone Sawmill
+gui.pyrotech.jei.category.oven.stone=Stone Oven
+
+gui.pyrotech.jei.category.mechanical.compacting.bin=Mechanical Compactor
+
+gui.pyrotech.jei.category.kiln.pit=Pit Kiln
+gui.pyrotech.jei.category.burn.pit=Pit Burning
+gui.pyrotech.jei.category.burn.refractory=Refractory Burning
+gui.pyrotech.jei.category.drying.rack=Drying
+gui.pyrotech.jei.category.chopping=Chopping
+gui.pyrotech.jei.category.anvil.granite=Granite Anvil
+gui.pyrotech.jei.category.anvil.ironclad=Ironclad Anvil
+gui.pyrotech.jei.category.anvil.obsidian=Obsidian Anvil
+gui.pyrotech.jei.category.compacting.bin=Compacting Bin
+gui.pyrotech.jei.category.campfire=Campfire
+gui.pyrotech.jei.category.worktable=Worktable
+gui.pyrotech.jei.category.soaking.pot=Soaking Pot
+gui.pyrotech.jei.category.compost.bin=Composting
+gui.pyrotech.jei.category.barrel=Barrel
+gui.pyrotech.jei.category.tanning.rack=Tanning Rack
+
+gui.pyrotech.jei.category.bloomery=Bloomery
+gui.pyrotech.jei.category.wither.forge=Wither Forge
+
+gui.pyrotech.jei.info.campfire=To make a campfire, place tinder on the ground, add logs, and light it.
+gui.pyrotech.jei.info.pit.kiln=To use a pit kiln, first dig a hole in the ground and place the pit kiln inside. Next, place the item you want to fire in the pit kiln, place a straw block, and place three logs on top. Finally, light the top of the kiln and be sure to keep it dry while it fires!
+gui.pyrotech.jei.info.burn=To perform pit burning, place the blocks to burn in a pit and make sure all sides are covered with solid, non-flammable blocks, leaving one hole exposed. Light the blocks and quickly cover the hole. The entire contents must be covered with full, non-flammable blocks to succeed. When contents stop smoking, the burn is complete. To collect fluid from the burn, place collectors under the blocks.
+gui.pyrotech.jei.info.refractory=Refractory burning is similar to pit burning with the exception that the burning blocks must be fully covered with valid refractory blocks. To collect fluid from the burn, place a valid refractory collector under the blocks.
+
+#------------------------------------------------------------------------------
+# Module: Plugin - Patchouli
+#------------------------------------------------------------------------------
+
+item.pyrotech.book.name=Pyrotechnic Esoterica
+gui.pyrotech.book.landing_text=Welcome to the official, VFD sanctioned guide to surviving in the wilderness by starting fires, rather than putting them out.$(p)These pages will instruct you on how to survive, gather, adapt, innovate, accelerate, and bloom in your new role as a volunteer.
+gui.pyrotech.book.subtitle=Survival by Fire
+
+#------------------------------------------------------------------------------
+# Advancements
+#------------------------------------------------------------------------------
+
+pyrotech.desc=Survival by fire!
+
+advancement.pyrotech.dried.plant.fibers=Fibrous Foraging
+advancement.pyrotech.dried.plant.fibers.desc=Collect dried plant fibers
+advancement.pyrotech.flint.and.tinder=Stone-Age Sizzle
+advancement.pyrotech.flint.and.tinder.desc=Simply flint, stone, tinder
+advancement.pyrotech.roasted.food=Roasted Refreshments
+advancement.pyrotech.roasted.food.desc=Eat each of the six roasted foods
+advancement.pyrotech.tools.crude=Primitive Pickaxe
+advancement.pyrotech.tools.crude.desc=Craft a crude pickaxe
+advancement.pyrotech.chopping.block=Chop, Chop!
+advancement.pyrotech.chopping.block.desc=Craft a chopping block
+advancement.pyrotech.worktable=Creative Crafting
+advancement.pyrotech.worktable.desc=Craft a worktable
+advancement.pyrotech.pickaxe=Improvement, Indubitably
+advancement.pyrotech.pickaxe.desc=Craft a flint or bone pickaxe
+advancement.pyrotech.cobblestone=Cobble Cumulation
+advancement.pyrotech.cobblestone.desc=Mine or craft cobblestone
+advancement.pyrotech.stone=Stalwart Stone
+advancement.pyrotech.stone.desc=Fire cobblestone into stone
+advancement.pyrotech.pit.kiln=Practical Pits
+advancement.pyrotech.pit.kiln.desc=Craft a Pit Kiln
+advancement.pyrotech.straw=Strictly Straw
+advancement.pyrotech.straw.desc=Craft a Straw Bale
+advancement.pyrotech.stone.slab=Simply Slabs
+advancement.pyrotech.stone.slab.desc=Craft a Stone Slab
+advancement.pyrotech.anvil.granite=Gratefully, Granite
+advancement.pyrotech.anvil.granite.desc=Craft a Granite Anvil
+advancement.pyrotech.stone.brick=Modest Masonry
+advancement.pyrotech.stone.brick.desc=Use the Granite Anvil to craft a Masonry Brick
+advancement.pyrotech.bellows=Blustering Bellows
+advancement.pyrotech.bellows.desc=Craft a Bellows
+advancement.pyrotech.mechanical.bellows=Automated Airflow
+advancement.pyrotech.mechanical.bellows.desc=Craft a Mechanical Bellows
+advancement.pyrotech.mechanical.compacting.bin=Constructive Compression
+advancement.pyrotech.mechanical.compacting.bin.desc=Craft a Mechanical Compactor
+advancement.pyrotech.mechanical.hopper=Hardworking Hopper
+advancement.pyrotech.mechanical.hopper.desc=Craft a Mechanical Hopper
+advancement.pyrotech.charcoal=Formidable Fuel
+advancement.pyrotech.charcoal.desc=Use a Pit Burn to collect Charcoal
+advancement.pyrotech.stone.machines=Adequate Appliances
+advancement.pyrotech.stone.machines.desc=Make each Stone Combustion Machine
+advancement.pyrotech.slaked.lime=Sufficiently Slaked
+advancement.pyrotech.slaked.lime.desc=Create Slaked Lime
+advancement.pyrotech.refractory.brick=Refined Refractory
+advancement.pyrotech.refractory.brick.desc=Craft a Refractory Brick
+advancement.pyrotech.coal.coke.block=Fine Fuel
+advancement.pyrotech.coal.coke.block.desc=I liked carbon before it was Coal
+advancement.pyrotech.living.tar=Frightful Fuel
+advancement.pyrotech.living.tar.desc=Create Living Tar
+advancement.pyrotech.bloomery=Budding Bloom
+advancement.pyrotech.bloomery.desc=Craft a Bloomery
+advancement.pyrotech.iron.ingot=Inflexible Iron
+advancement.pyrotech.iron.ingot.desc=Craft an Iron Ingot
+advancement.pyrotech.crafting.table=Clever Crafting
+advancement.pyrotech.crafting.table.desc=Step up your crafting game
+advancement.pyrotech.brick.machines=Improved Instruments
+advancement.pyrotech.brick.machines.desc=Craft each brick combustion machine
+advancement.pyrotech.furnace=Furnace, Finally
+advancement.pyrotech.furnace.desc=Craft a Furnace
+advancement.pyrotech.nether=Nefarious Nether
+advancement.pyrotech.nether.desc=Build, light, and enter a Nether Portal
+advancement.pyrotech.wither.forge=Foul Forge
+advancement.pyrotech.wither.forge.desc=Craft a Wither Forge
+advancement.pyrotech.tools.obsidian=Obstinate Obsidian
+advancement.pyrotech.tools.obsidian.desc=Craft an Obsidian Pickaxe
+
+
+#------------------------------------------------------------------------------
+# Misc
+#------------------------------------------------------------------------------
+
+gui.pyrotech.disconnect.module.mismatch=The client-side modules enabled in Pyrotech's module config don't match the modules enabled on the server. The server expects: %s.
+
+gui.pyrotech.restart1=Pyrotech must restart once to function correctly.
+gui.pyrotech.restart2=Pyrotech has generated content and must restart to load it.
+gui.pyrotech.restart3=Please exit Minecraft and restart the game.
+gui.pyrotech.restart4=For more information, read the docs.
+gui.pyrotech.restart.button=I Understand
